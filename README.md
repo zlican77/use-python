@@ -8,3 +8,7 @@
 >[快速排序](https://github.com/ican-7/use-python/issues/4)  
 >[归并排序](https://github.com/ican-7/use-python/issues/5)  
 >[堆排序](https://github.com/ican-7/use-python/issues/6)
+
+栈与队列：
+-
+[栈的实现](https://github.com/ican-7/use-python/issues/7)
