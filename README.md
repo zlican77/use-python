@@ -17,3 +17,8 @@ python解释算法
 >**链表与哈希表**：
 * [链表实现](https://github.com/ican-7/use-python/issues/11)  
 * [哈希表实现](https://github.com/ican-7/use-python/issues/12)  
+
+>**树**：
+* [树模拟文件系统](https://github.com/ican-7/use-python/issues/13)  
+* [二叉树的遍历](https://github.com/ican-7/use-python/issues/14)  
+* [二叉搜索树](https://github.com/ican-7/use-python/issues/15)
