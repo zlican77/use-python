@@ -13,3 +13,7 @@ python解释算法
 * [队列的实现](https://github.com/ican-7/use-python/issues/8)  
 * [栈的迷宫问题实现](https://github.com/ican-7/use-python/issues/9)  
 * [队列的迷宫问题实现](https://github.com/ican-7/use-python/issues/10)
+
+>**链表与哈希表**：
+* [链表实现](https://github.com/ican-7/use-python/issues/11)  
+* [哈希表实现](https://github.com/ican-7/use-python/issues/12)  
