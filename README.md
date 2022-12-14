@@ -1,4 +1,4 @@
-张xu允你个大笨蛋
+张xu允你个大笨蛋哈哈哈哈
 
 六大排序：
 [冒泡排序](https://github.com/ican-7/use-python/issues/1)、
