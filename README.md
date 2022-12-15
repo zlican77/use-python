@@ -22,3 +22,6 @@ python解释算法
 * [树模拟文件系统](https://github.com/ican-7/use-python/issues/13)  
 * [二叉树的遍历](https://github.com/ican-7/use-python/issues/14)  
 * [二叉搜索树](https://github.com/ican-7/use-python/issues/15)
+
+>**算法进阶**：
+* [贪心算法](https://github.com/ican-7/use-python/issues/16)
