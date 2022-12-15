@@ -24,4 +24,5 @@ python解释算法
 * [二叉搜索树](https://github.com/ican-7/use-python/issues/15)
 
 >**算法进阶**：
-* [贪心算法](https://github.com/ican-7/use-python/issues/16)
+* [贪心算法](https://github.com/ican-7/use-python/issues/16)  
+* [分数背包](https://github.com/ican-7/use-python/issues/17)
