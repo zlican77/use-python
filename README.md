@@ -25,4 +25,5 @@ python解释算法
 
 >**算法进阶**：
 * [贪心算法](https://github.com/ican-7/use-python/issues/16)  
-* [分数背包](https://github.com/ican-7/use-python/issues/17)
+* [分数背包](https://github.com/ican-7/use-python/issues/17)  
+* [活动选择](https://github.com/ican-7/use-python/issues/18)
