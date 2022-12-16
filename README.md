@@ -25,8 +25,8 @@ python解释算法
 
 >**算法进阶**：
 * [贪心算法](https://github.com/ican-7/use-python/issues/16)  
-* [分数背包](https://github.com/ican-7/use-python/issues/17)  
-* [活动选择](https://github.com/ican-7/use-python/issues/18)  
+* [贪心算法的分数背包实现](https://github.com/ican-7/use-python/issues/17)  
+* [贪心算法的活动选择实现](https://github.com/ican-7/use-python/issues/18)  
 * [动态规划](https://github.com/ican-7/use-python/issues/19)  
 * [动态规划的钢条切割实现](https://github.com/ican-7/use-python/issues/20)  
 * [动态规划的最长公共子序列实现](https://github.com/ican-7/use-python/issues/21)
