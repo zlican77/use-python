@@ -29,4 +29,5 @@ python解释算法
 * [贪心算法的活动选择实现](https://github.com/ican-7/use-python/issues/18)  
 * [动态规划](https://github.com/ican-7/use-python/issues/19)  
 * [动态规划的钢条切割实现](https://github.com/ican-7/use-python/issues/20)  
-* [动态规划的最长公共子序列实现](https://github.com/ican-7/use-python/issues/21)
+* [动态规划的最长公共子序列实现](https://github.com/ican-7/use-python/issues/21)  
+* [欧几里得算法](https://github.com/ican-7/use-python/issues/22)
