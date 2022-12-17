@@ -1,4 +1,4 @@
-python解释算法
+Python解释算法
 -
 >**六大排序**：
 * [冒泡排序](https://github.com/ican-7/use-python/issues/1)  
@@ -32,4 +32,7 @@ python解释算法
 * [动态规划的最长公共子序列实现](https://github.com/ican-7/use-python/issues/21)  
 * [欧几里得算法](https://github.com/ican-7/use-python/issues/22)  
 * [欧几里得算法的四则运算实现](https://github.com/ican-7/use-python/issues/23)  
-* [RSA加密算法](https://github.com/ican-7/use-python/issues/24)
+* [RSA加密算法](https://github.com/ican-7/use-python/issues/24)  
+
+Python解释设计模式
+-
