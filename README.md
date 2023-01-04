@@ -25,6 +25,7 @@ Python解释算法
 * [动态规划](https://github.com/ican-7/use-python/issues/19)、[动态规划的钢条切割实现](https://github.com/ican-7/use-python/issues/20)、[动态规划的最长公共子序列实现](https://github.com/ican-7/use-python/issues/21)  
 
 >**其他**：
+* [二分查找](https://github.com/ican-7/use-python/issues/28)
 * [欧几里得算法](https://github.com/ican-7/use-python/issues/22)  
 * [欧几里得算法的四则运算实现](https://github.com/ican-7/use-python/issues/23)  
 * [RSA加密算法](https://github.com/ican-7/use-python/issues/24)  
