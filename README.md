@@ -4,6 +4,9 @@ Python解释算法
 * [冒泡排序](https://github.com/ican-7/use-python/issues/1)、[选择排序](https://github.com/ican-7/use-python/issues/2)、[插入排序](https://github.com/ican-7/use-python/issues/3)  
 * [快速排序](https://github.com/ican-7/use-python/issues/4)、[归并排序](https://github.com/ican-7/use-python/issues/5)、[堆排序](https://github.com/ican-7/use-python/issues/6)
 
+>**双指针**：
+* [双指针-头头](https://github.com/ican-7/use-python/issues/25)、[双指针-头尾](https://github.com/ican-7/use-python/issues/26)、[双指针-滑动窗口](https://github.com/ican-7/use-python/issues/27) 
+
 >**栈与队列**：
 * [栈的实现](https://github.com/ican-7/use-python/issues/7)、[栈的迷宫问题实现](https://github.com/ican-7/use-python/issues/9)
 * [队列的实现](https://github.com/ican-7/use-python/issues/8)、[队列的迷宫问题实现](https://github.com/ican-7/use-python/issues/10)
